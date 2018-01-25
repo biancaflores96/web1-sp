@@ -4,4 +4,5 @@ description: "This text shows up in search engine previews"
 ---
 
 This is a post. Rename the file and replace it with a real post.
-note: just insert links like copy and paste
+note: just insert links like copy and paste so: [name of site] (link)
+name files by year, month, day then name.markdown ex. 2018-01-25-eyes.markdown

@@ -1,5 +1,8 @@
 ---
 title: "homage to winter olympics"
+description: "New branding work"
+author: "Anne other"
+featured_image:"
 ---
 Type Firm creates type for winter olympics.
 ---

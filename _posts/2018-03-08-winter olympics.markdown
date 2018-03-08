@@ -3,9 +3,9 @@ title: "homage to winter olympics"
 ---
 Type Firm creates type for winter olympics.
 ---
-#h1
-##h2
-###he3
+# h1
+## h2
+### he3
 all the way up to h6
 An interesting post on AIGA on an homage to this years Winter Olymptics
 [this is the text of a link](http://whereveritcomesfrom.com)
@@ -21,6 +21,6 @@ dash space makes a list, a ul list
 - mint0flavored mint toothpaste
 - 4,00 lb.dried fennel
 
-###procedures
+### procedures
 
 1. 

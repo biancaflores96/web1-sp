@@ -1,6 +1,7 @@
 ---
-title: "Homage to the 2018 Winter Olympics"
-description:"Type made by design firm
+title: "homage to winter olympics"
+---
+Type Firm creates type for winter olympics.
 ---
 
 An interesting post on AIGA on an homage to this years Winter Olymptics

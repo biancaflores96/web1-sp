@@ -1,7 +1,6 @@
 ---
 title: "homage to winter olympics"
 description: "New branding work"
-featured_image:"
 ---
 Type Firm creates type for winter olympics.
 ---

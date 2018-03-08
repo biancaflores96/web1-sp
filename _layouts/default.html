@@ -31,7 +31,7 @@
         {% if page.date %}
     		<p>{{ page.date | date: "%A, %B %-d, %Y" }}</p>
         {% endif %}
-
+		<p> Written by:{{ page.author }}</p>
         {{ content }}
 
 	</div><!-- end container -->

@@ -5,6 +5,6 @@ description: "Banksy's 70-foot-long mural was unveiled on Thursday,protesting th
 
 Great article on one artist supporting the work of another. 
 
-[New York Times] (https://www.nytimes.com/2018/03/15/arts/design/banksy-mural-new-york-zehra-dogan.html)
+[New York Times](https://www.nytimes.com/2018/03/15/arts/design/banksy-mural-new-york-zehra-dogan.html)
 
 

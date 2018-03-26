@@ -1,0 +1,10 @@
+---
+title: "Zach Lieberman’s New App Turns Type into a 3D Object"
+description: "Lieberman and his partner Molmol Kuo just released an 
+app called Weird Type, that enables the technologically challenged to create some of the 
+same visual effects Lieberman and Kuo make in their studio."
+---
+Innovative take on Typeface, Design and Augumented Reality come together as a creative source for the average person.
+
+
+[AIGA Eye on Design](https://eyeondesign.aiga.org/zach-liebermans-new-app-turns-type-into-a-3d-object/)

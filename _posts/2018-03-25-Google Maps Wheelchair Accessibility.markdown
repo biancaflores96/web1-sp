@@ -7,3 +7,5 @@ of the app.
 
 
 [Architectual Digest](https://www.architecturaldigest.com/story/google-maps-adds-wheelchair-accessible-navigation-options)
+
+![Google Maps](https://lazybatman.com/wp-content/uploads/2017/12/google-maps2-fade-ss-1920.jpg)

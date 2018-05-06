@@ -31,7 +31,7 @@ body {
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
-	background: #ffe100;
+	background-image: url("https://images.unsplash.com/photo-1513257027570-b3f9c5f5442d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2f48c14c2689661572d7a79cae7a44bf&auto=format&fit=crop&w=749&q=80#ffe100");
 }
 
 /*	Generally, you will only want one container element in

@@ -47,6 +47,7 @@ body {
 	width: 90%;
 	max-width: 1200px;
 	padding: 5em;
-	border: 8px solid #eee;
-	background-color: blue;
+	border: 8px solid #E6E6FA;
+	background-color: white;
+	text-align: center;
 }

@@ -27,7 +27,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Source Sans Pro", "Helvetica Neue","Gothic A1", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
@@ -50,5 +50,5 @@ body {
 	border: 8px solid #E6E6FA;
 	background-color: white;
 	text-align: center;
-	font-family: 'Gothic A1', sans-serif;
+	font-family: "Gothic A1", sans-serif;
 }

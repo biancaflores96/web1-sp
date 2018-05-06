@@ -1,6 +1,6 @@
 
 # Site settings
-title: Bianca Flores's Blog
+title: Bianca's Blog
 description: A Blog featuring interesting design concepts found online.
 baseurl: "/web1-sp" # folder where your site lives, e.g. /web1-sp - needs to start with a slash
 url: "https://biancaflores96.github.io/web1-sp/" # the base hostname & protocol for your site, e.g. http://hostname.domain.com
